@@ -1,4 +1,4 @@
-
+Minecraft Java 1.21.20
 # Welcome to the PojavLauncher Wiki!
 ____
 * Get started by [installing Pojavlauncher](./getting_started/INSTALL)!
